@@ -1,12 +1,12 @@
-#include "_putchar.c"
+#include "main.h"
 /**
  * main - Entry point
- * Description: prints '_putchar.c \n'
+ * Description: prints 'main.h \n'
  * Return: Always 0 (success)
  */
 int main(void)
 {
-char str[] = "_putchar.c\n";
+char str[] = "main.h\n";
 int i = 0;
 
 while (str[i] != '\0')
