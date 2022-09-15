@@ -1,0 +1,3 @@
+git add .
+git commit -m 'function and nested loop'
+git push
